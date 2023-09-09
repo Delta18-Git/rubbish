@@ -1,5 +1,3 @@
-package ClassXII.Extra;
-
 public final class ListNode<T extends Comparable<T>> extends Node<T> {
     private ListNode<T> next;
 
