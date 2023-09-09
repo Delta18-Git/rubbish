@@ -1,5 +1,3 @@
-package ClassXII.Extra;
-
 import java.util.function.IntFunction;
 
 public class LinkedList<T extends Comparable<T>>
