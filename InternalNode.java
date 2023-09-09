@@ -1,7 +1,4 @@
-package ClassXII.Extra;
-
-
-public final class InternalNode<T extends Comparable<T>> extends Node<T> {
+\public final class InternalNode<T extends Comparable<T>> extends Node<T> {
     private Node<T> left;
     private Node<T> right;
 
