@@ -1,6 +1,3 @@
-package ClassXII.Extra;
-
-
 public abstract sealed class Node<T extends Comparable<T>> permits ListNode, LeafNode, InternalNode {
     private T data;
 
