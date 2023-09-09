@@ -1,5 +1,3 @@
-package ClassXII.Extra;
-
 public class BinarySearchTree<T extends Comparable<T>>{
 
     private Node<T> root;
